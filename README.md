@@ -3,7 +3,7 @@
 This is a simple Travel Web App built with Flask  
 Created by **Reshma Gutta**
 
-Detailed project documentation is available in the [documentation.pdf](./documentation.pdf) file in this repository. This documentation covers the project requirements, architecture, implementation details, and DevOps practices used.Add commentMore actions
+Detailed project documentation is available in the [documentation.pdf](./Devops documentation.pdf) file in this repository. This documentation covers the project requirements, architecture, implementation details, and DevOps practices used.Add commentMore actions
 
 ## Project Structure
 
