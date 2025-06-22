@@ -16,8 +16,3 @@ Detailed project documentation is available in the [documentation.pdf](./documen
 ├── static/             # Static assets
 │   └── style.css       # CSS styling for the weather app
 └── templates/          # HTML templates
-## How to Run
-
-```bash
-docker build -t travel-app-flask .
-docker run -p 5000:5000 travel-app-flask
